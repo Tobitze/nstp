@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nstp",
+  "name": "Nummernstellpult",
+  "description": "Simulates an SpDr Relay Interlocking Number-Control Board via Wireless Redstone",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tobitze, Claude Code"],
+  "credits": "Tobitze, Claude",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
