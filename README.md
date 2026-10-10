@@ -1,6 +1,6 @@
-# 🚦 NSTP: Nachrichten-Stellpult
+# 🚦 NSTP: SpDr Nummern-Stellpult
 
-> **Hinweis:** *Relay Interlocking not included.*
+> **Hinweis:** *Stellwerk nicht inkludiert*
 > Der Mod drückt die Tasten, aber ob die Fahrstraße auch wirklich gesichert ist, entscheidet deine Relaisschaltung. Wer vergessen hat, die Gegenfahrstraße zu verschließen, bekommt trotzdem ein freundliches „Klick Klack!".
 
 Ein serverseitiger Forge-Mod für **Minecraft 1.12.2**, mit dem Spieler per Chat-Nachricht Tastenrelais in einem Stellwerk schalten. Statt zum Pult zu laufen, tippt man eine Nummer in den Chat. Der Mod schaltet dafür die passenden **Wireless-Redstone-Frequenzen** für eine Sekunde ein.
